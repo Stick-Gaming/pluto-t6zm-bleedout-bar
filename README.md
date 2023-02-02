@@ -26,7 +26,7 @@ Kinda like Bo4 and CW bleed out bar
 
 
 ## Installation
-- Compile the script or for a pre-compile go look in our [release](https://gitlab.com/Nathan3197/stick-gaming-pluto-t6zm-bleedout-bar/-/releases) 
+- Compile the script or for a pre-compile go look in our [release](https://github.com/Stick-Gaming/pluto-t6zm-bleedout-bar/releases) 
 
 - Copy the compile files to your `AppData/Local/Plutonium/storage/t6/scripts/zm` folder
 
