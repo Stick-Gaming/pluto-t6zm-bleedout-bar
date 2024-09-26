@@ -1,9 +1,9 @@
-# Stick Gaming Pluto T6ZM V2.0 Bleed-out Bar
+![image](https://github.com/user-attachments/assets/d8899079-a198-4165-a311-540353ae0b51)# Stick Gaming Pluto T6ZM V2.0 Bleed-out Bar
 Add a bleed-out bar when you are down and tell you how long you have to live.
 Kinda like Bo4 and CW bleed-out bar
 
 ## Bleedout Bar V2.0
-![](https://media.discordapp.net/attachments/758863563623890965/952946850976137316/unknown.png?width=1249&height=702)
+![](https://forum.plutonium.pw/assets/uploads/files/1647271423847-55d49cc7-301d-445a-a78b-73ad96c29142-image.png)
 
 # Features
 -	**Bleedout Bar V2.0**
